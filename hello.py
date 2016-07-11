@@ -1,3 +1,6 @@
+// For command line git tutorial
+// GitHub modification
+
 D:/Projects/git_tutorial/.git
 print("hello world")
 print("Tell your world");
